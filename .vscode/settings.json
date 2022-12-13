@@ -3,6 +3,7 @@
         "InsertionSort",
         "MergeSort",
         "OtherDivideAndConquerAlgorithms",
-        "QuickSort"
+        "QuickSort",
+        "Selection",
     ]
 }
