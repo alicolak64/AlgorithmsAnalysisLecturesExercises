@@ -2,6 +2,7 @@
     "java.project.sourcePaths": [
         "InsertionSort",
         "MergeSort",
-        "OtherDivideAndConquerAlgorithms"
+        "OtherDivideAndConquerAlgorithms",
+        "QuickSort"
     ]
 }
