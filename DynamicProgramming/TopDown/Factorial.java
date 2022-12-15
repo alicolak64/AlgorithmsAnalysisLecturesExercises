@@ -1,5 +1,3 @@
-package Algorithms.DynamicProgramming.TopDown;
-
 public class Factorial {
 
     public static void main(String[] args) {
