@@ -5,6 +5,8 @@
         "OtherDivideAndConquerAlgorithms",
         "QuickSort",
         "Selection",
-        "HeapSort"
+        "HeapSort" ,
+        "DynamicProgramming/BottomUp",
+        "DynamicProgramming/TopDown",
     ]
 }
