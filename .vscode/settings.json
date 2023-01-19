@@ -8,6 +8,7 @@
         "HeapSort" ,
         "DynamicProgramming/BottomUp",
         "DynamicProgramming/TopDown",
-        "GreedyAlgorithms"
+        "GreedyAlgorithms",
+        "AmortizedAnalysis"
     ]
 }
